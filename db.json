@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "firstname": "utkarsha",
+      "lastname": "karade",
+      "birthday": "1995-1-23",
+      "gender": "f",
+      "education": "diploma",
+      "company": "delpalex",
+      "jobExperience": 1,
+      "salary": 30,
+      "profile": "profile-01.jpg",
+      "id": 1
+    },
+    {
+      "firstname": "utkarsh",
+      "lastname": "karade",
+      "birthdate": "2023-06-15",
+      "gender": "m",
+      "education": "graduate",
+      "company": "delaplex pvt ltd",
+      "jobExperience": 1,
+      "salary": 30,
+      "profile": "Profile-01.jpg",
+      "id": 2
+    },
+    {
+      "firstname": "rohan",
+      "lastname": "",
+      "birthdate": "2023-06-16",
+      "gender": "m",
+      "education": "10th pass",
+      "company": "sdcds",
+      "jobExperience": 1,
+      "salary": 52,
+      "profile": "Profile-01.jpg",
+      "id": 3
+    },
+    {
+      "firstname": "sonal",
+      "lastname": "raut",
+      "birthdate": "2023-06-22",
+      "gender": "f",
+      "company": "swd",
+      "jobExperience": 1,
+      "salary": 23,
+      "profile": "Profile-05.jpg",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
